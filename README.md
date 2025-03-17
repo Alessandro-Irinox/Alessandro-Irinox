@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Da Ros</h1>
-<h3 align="center">Technical Analyst and Digital Transformation at Irinox spa ☁️</h3>
+<h3 align="center">Digital Transformation Technical Analyst at Irinox spa ☁️</h3>
 
 ____
 
